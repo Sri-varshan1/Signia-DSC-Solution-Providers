@@ -1,0 +1,37 @@
+/*
+Custom CSS for TemplateMo 561 Purple Buzz
+
+https://templatemo.com/tm-561-purple-buzz
+
+*/
+.card-img, .card-img-top{
+    width: 338px;
+    height: 215px
+}
+.abc{
+    min-height: 200px;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: grey;
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: gray;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+}
