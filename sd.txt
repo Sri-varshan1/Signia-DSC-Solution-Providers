@@ -1,0 +1,11 @@
+http://www.signiadsc.in/
+
+FTP
+182.50.135.111 - IP Adress
+
+signiadscFtp - Username
+
+9F$p1al3 - Password
+
+
+Filezilla connect information signiadsc
